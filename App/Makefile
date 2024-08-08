@@ -9,5 +9,3 @@ run:
 
 lint:
 		./gradlew checkstyleMain
-
-clean:
